@@ -84,20 +84,6 @@ pip install -r requirements.txt
 ```
 
 
-## Quickstart
-
-### WebUI
-AttentiveEraser includes a user-friendly web interface built with **Streamlit**, which allows for an interactive experience directly from your browser.
-
-To launch the Web UI, navigate to the project directory in your terminal and run the following command:
-```bash
-streamlit run AttentiveEraser-WebUI.py
-```
-
-<img src="https://xiaolan-1317307543.cos.ap-guangzhou.myqcloud.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-06-29%20142833.png" alt="name" style="width: 100%; height: auto;">
-
-
-
 ### CommandLine
 
 Below is a table that displays the various commands you can use in the command line, along with examples and corresponding explanations.
